@@ -1,0 +1,14 @@
+/Users/joe-zimmerman/Desktop/LISP/bin/Debug/net8.0/LISP
+/Users/joe-zimmerman/Desktop/LISP/bin/Debug/net8.0/LISP.deps.json
+/Users/joe-zimmerman/Desktop/LISP/bin/Debug/net8.0/LISP.runtimeconfig.json
+/Users/joe-zimmerman/Desktop/LISP/bin/Debug/net8.0/LISP.dll
+/Users/joe-zimmerman/Desktop/LISP/bin/Debug/net8.0/LISP.pdb
+/Users/joe-zimmerman/Desktop/LISP/obj/Debug/net8.0/LISP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe-zimmerman/Desktop/LISP/obj/Debug/net8.0/LISP.AssemblyInfoInputs.cache
+/Users/joe-zimmerman/Desktop/LISP/obj/Debug/net8.0/LISP.AssemblyInfo.cs
+/Users/joe-zimmerman/Desktop/LISP/obj/Debug/net8.0/LISP.csproj.CoreCompileInputs.cache
+/Users/joe-zimmerman/Desktop/LISP/obj/Debug/net8.0/LISP.dll
+/Users/joe-zimmerman/Desktop/LISP/obj/Debug/net8.0/refint/LISP.dll
+/Users/joe-zimmerman/Desktop/LISP/obj/Debug/net8.0/LISP.pdb
+/Users/joe-zimmerman/Desktop/LISP/obj/Debug/net8.0/LISP.genruntimeconfig.cache
+/Users/joe-zimmerman/Desktop/LISP/obj/Debug/net8.0/ref/LISP.dll
